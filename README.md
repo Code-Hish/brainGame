@@ -1,2 +1,2 @@
 # brainGame
-It contains a brain teaser game
+It contains a quiz game
